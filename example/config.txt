@@ -1,0 +1,2 @@
+Prefix plugins/OTUSummary/example
+Plugin OTUSummary inputfile otu_table.biom outputfile output
