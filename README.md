@@ -2,7 +2,8 @@
 # Language: C++
 # Input: BIOM
 # Output: DIR
-# Tested with: PluMA 1.0, GCC 4.8.4
+# Tested with: PluMA 1.1, GCC 4.8.4
+# Dependency: Qiime 1.9.1, Python 2.7
 
 Summarize OTUs in a collection of samples (Caporaso et al, 2010) by taking a BIOM
 file and creating multiple BIOM and TXT files, one for each level of the phylogenetic tree.
